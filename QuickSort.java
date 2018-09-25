@@ -21,7 +21,7 @@ public class QuickSort {
 	}
 
 	private static int particionar(int[] v, int esq, int dir) {
-		int pivo = esq;
+		int pivo = [esq];
 		int i = esq + 1;
 		int j = dir;
 
